@@ -4,9 +4,9 @@
 [![Rank](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047/jefriidan15/the-picture-that-tastes-of-one-20261122-2047-westi/rank.svg)](https://make.fun/c/the-picture-that-tastes-of-one-20261122-2047)
 [![Reward](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047/jefriidan15/the-picture-that-tastes-of-one-20261122-2047-westi/reward.svg)](https://make.fun/c/the-picture-that-tastes-of-one-20261122-2047)
 
-A program that draws one delicious picture of food: a tall stack of golden
+A program that paints one delicious picture of food: a tall stack of golden
 pancakes with melting butter, maple syrup dripping down the sides, and fresh
-blueberries and raspberries on top, served on a plate — with a little steam
+blueberries and raspberries on top, served on a plate, with a little steam
 rising. Written from scratch in pure TypeScript (Node 22, zero dependencies):
 a hand-written rasterizer paints gradients, ellipses, discs and speckle
 texture into a pixel buffer, then encodes it as a PNG with Node's built-in
