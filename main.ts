@@ -317,7 +317,7 @@ function drawToppings(): void {
   fillEllipse(668, 448, 34, 14, (nx) => [52, 150 + Math.round(40 * (1 - Math.abs(nx))), 62]);
   stroke(640, 452, 694, 444, 3, [40, 110, 52]);
   // Powdered sugar dusting.
-  for (let s = 0; s < 90; s++) {
+  for (let s = 0; s < 110; s++) {
     const a = rnd() * Math.PI * 2;
     const rr = 40 + rnd() * 150;
     ball(CX + Math.cos(a) * rr, STACK_TOP + 2 + Math.sin(a) * rr * 0.22, 1 + rnd() * 1.6, [255, 250, 240], 0);
